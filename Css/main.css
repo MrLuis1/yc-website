@@ -119,8 +119,9 @@ h6 {
 /* ////////////////////////////////////////////////// */
 
 #showcase {
+    object-fit: cover;
     width: 100%;
-    height: 90vh;
+    height: auto;
 }
 
 header {
