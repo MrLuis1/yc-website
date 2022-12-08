@@ -140,12 +140,12 @@ header {
 
 .content-author h2 {
     color: var(--primario);
-    font-size: 32px;
+    font-size: 17px;
 }
 
 .content-author h6 {
     color: rgba(45, 45, 45, 0.6);
-    font-size: 25px;
+    font-size: 16px;
 }
 
 .author-img {
@@ -267,7 +267,11 @@ section h2::after {
   
   
   .price {
-    font-weight: 900;
+    font-size: 15px;
+  }
+
+  .product-brand {
+    font-weight: bold;
     font-size: 20px;
   }
   
